@@ -1,0 +1,7 @@
+require './sokoban/board.rb'
+require './sokoban/player.rb'
+require './sokoban/game.rb'
+require './sokoban/game_right.rb'
+require './sokoban/game_left.rb'
+require './sokoban/game_up.rb'
+require './sokoban/game_down.rb'
